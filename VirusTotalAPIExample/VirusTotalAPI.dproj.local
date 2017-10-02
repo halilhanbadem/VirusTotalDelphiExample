@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/10/01 21:36:54.000.511,=C:\Users\halil\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/10/01 21:44:36.000.232,C:\Users\halil\OneDrive\Belgeler\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\halil\OneDrive\Belgeler\Embarcadero\Studio\Projects\VirusTotalAPI.dproj</Transaction>
+    <Transaction>2017/10/01 21:44:42.000.795,C:\Users\halil\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\halil\OneDrive\Belgeler\Embarcadero\Studio\Projects\MainForm1.pas</Transaction>
+    <Transaction>2017/10/01 21:44:42.000.795,C:\Users\halil\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\halil\OneDrive\Belgeler\Embarcadero\Studio\Projects\MainForm1.dfm</Transaction>
+    <Transaction>2017/10/01 21:46:04.000.640,C:\Users\halil\OneDrive\Belgeler\Embarcadero\Studio\Projects\MainForm1.dfm=C:\Users\halil\Desktop\MainForm\MainForm1.dfm</Transaction>
+    <Transaction>2017/10/01 21:46:04.000.640,C:\Users\halil\OneDrive\Belgeler\Embarcadero\Studio\Projects\MainForm1.pas=C:\Users\halil\Desktop\MainForm\MainForm1.pas</Transaction>
+    <Transaction>2017/10/01 21:46:05.000.120,C:\Users\halil\OneDrive\Belgeler\Embarcadero\Studio\Projects\VirusTotalAPI.dproj=C:\Users\halil\Desktop\MainForm\VirusTotalAPI.dproj</Transaction>
+    <Transaction>2017/10/01 21:50:42.131,=C:\Users\halil\Desktop\VirusTotalAPIDeneme\VirusTotal.pas</Transaction>
+    <Transaction>2017/10/01 21:50:42.182,=C:\Users\halil\Desktop\VirusTotalAPIDeneme\XSuperJSON.pas</Transaction>
+    <Transaction>2017/10/01 21:50:42.232,=C:\Users\halil\Desktop\VirusTotalAPIDeneme\XSuperObject.pas</Transaction>
+  </Transactions>
+</BorlandProject>
