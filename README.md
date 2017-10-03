@@ -2,7 +2,8 @@
 Virus Total Delphi Example.
 
 
-VirusTotal.pas, the owner of the file: https://github.com/ms301/VirusTotal
+<br>VirusTotal.pas, the owner of the file: https://github.com/ms301/VirusTotal</br>
+
 "X-SuperObject" owner: https://github.com/onryldz/x-superobject
 
 1) Send it to a file for analysis,
