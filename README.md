@@ -2,12 +2,12 @@
 Virus Total Delphi Example.
 
 
-VirusTotal.rust, the owner of the file:
-"X-SuperObject" owner:
+VirusTotal.pas, the owner of the file: https://github.com/ms301/VirusTotal
+"X-SuperObject" owner: https://github.com/onryldz/x-superobject
 
-1) send it to a file for analysis,
-2) loading and wait for it to be scanned,
-3) ask for the results later.
+1) Send it to a file for analysis,
+2) Loading and wait for it to be scanned,
+3) Ask for the results later.
 
 
 Sincerely,
